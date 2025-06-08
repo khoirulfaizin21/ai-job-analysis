@@ -1,7 +1,6 @@
 # ai-job-analysis
-Analysis of 15,000 global AI job listings
+Key Insights from 15,000 AI Job Listings Worldwide 
 # 🌍 AI Job Market Analysis — 15,000+ Global Job Postings
-
 This project explores over 15,000 AI-related job listings across the globe to uncover patterns in salary, skill demand, remote work availability, and more.
 
 📌 **Key Questions Answered**
